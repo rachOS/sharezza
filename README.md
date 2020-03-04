@@ -1,2 +1,2 @@
 # sharezza
-WCS quest, giant pizza sharing project
+WCS quest, giant pizza sharing project!
